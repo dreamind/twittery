@@ -1,0 +1,33 @@
+{
+  "name": "twittery",
+  "preferGlobal": "false",
+  "version": "0.0.1",
+  "author": "dreamind <dreamind@gmail.com>",
+  "description": "A high-level wrapper to Twitter API",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dreamind/twittery.git"
+  },
+  "keywords": [
+    "twitter",
+    "twittery"
+  ],
+  "dependencies": {
+    "undertow": "0.0.3",
+    "sprintf": "0.1.1",
+    "jsonfile": "1.0.1"
+  },
+  "noAnalyze": true,
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-jshint": "~0.6.3",
+    "grunt-contrib-nodeunit": "~0.2.0",
+    "grunt-contrib-uglify": "~0.2.2"
+  },
+  "bundleDependencies": [],
+  "license": "MIT",
+  "engine": {
+    "node": ">=0.10"
+  }
+}

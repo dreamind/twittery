@@ -1,0 +1,1201 @@
+{
+    "status": "success",
+    "results": {
+        "80583499": [{
+            "user_id": "80583499",
+            "created_at": "Tue Aug 14 05:12:52 +0000 2012",
+            "text": "I'm at Hoyts w/ @justin_88 http://t.co/BC8DBUTP",
+            "lat": -33.883295,
+            "long": 151.194433
+        }, {
+            "user_id": "80583499",
+            "created_at": "Tue Aug 14 03:58:39 +0000 2012",
+            "text": "I'm at Apple Store Broadway http://t.co/KejWcUPX",
+            "lat": -33.88364,
+            "long": 151.194294
+        }, {
+            "user_id": "80583499",
+            "created_at": "Tue Aug 14 03:47:25 +0000 2012",
+            "text": "OMNOZ (@ Le Wrap) http://t.co/pvmcMbmS",
+            "lat": -33.88368,
+            "long": 151.194165
+        }, {
+            "user_id": "80583499",
+            "created_at": "Tue Aug 14 03:28:20 +0000 2012",
+            "text": "I'm at Broadway Shopping Centre (Glebe, NSW) http://t.co/XIOS8Hwr",
+            "lat": -33.8836708,
+            "long": 151.19447601
+        }, {
+            "user_id": "80583499",
+            "created_at": "Tue Aug 14 03:22:32 +0000 2012",
+            "text": "I'm at Railway Square (Ultimo, NSW) http://t.co/PvJMQeoI",
+            "lat": -33.8837233,
+            "long": 151.20349288
+        }, {
+            "user_id": "80583499",
+            "created_at": "Tue Aug 14 03:09:21 +0000 2012",
+            "text": "I'm at Central Station (Main Concourse) (Sydney, NSW) http://t.co/SuXpvlYB",
+            "lat": -33.88285043,
+            "long": 151.20693684
+        }, {
+            "user_id": "80583499",
+            "created_at": "Mon Aug 13 10:06:18 +0000 2012",
+            "text": "I'm at Pizza Hut (Woodcroft, NSW) http://t.co/C1Klwe7E",
+            "lat": -33.7484951,
+            "long": 150.87928257
+        }, {
+            "user_id": "80583499",
+            "created_at": "Mon Aug 13 10:03:40 +0000 2012",
+            "text": "I'm at Centro Woodcroft (Woodcroft, NSW) http://t.co/Y1nWt76j",
+            "lat": -33.7486055,
+            "long": 150.87920873
+        }, {
+            "user_id": "80583499",
+            "created_at": "Mon Aug 13 09:13:39 +0000 2012",
+            "text": "I'm at Nando's (Rouse Hill, NSW) http://t.co/Wxh3UEv6",
+            "lat": -33.69095521,
+            "long": 150.92497031
+        }, {
+            "user_id": "80583499",
+            "created_at": "Mon Aug 13 09:13:21 +0000 2012",
+            "text": "I'm at Rouse Hill Town Centre (Rouse Hill, NSW) http://t.co/bofuXjzN",
+            "lat": -33.69077251,
+            "long": 150.92602135
+        }, {
+            "user_id": "80583499",
+            "created_at": "Mon Aug 13 06:32:08 +0000 2012",
+            "text": "@mitchill it's a bit hard to tell with you sometimes ...",
+            "lat": -33.72407544,
+            "long": 150.89348155
+        }, {
+            "user_id": "80583499",
+            "created_at": "Mon Aug 13 06:29:25 +0000 2012",
+            "text": "@mitchill how is GaGa in any way copying Marina? You're seeing things you want to see. GaGa has always been into everything to do with FAME",
+            "lat": -33.724125,
+            "long": 150.89343288
+        }, {
+            "user_id": "80583499",
+            "created_at": "Sun Aug 12 21:02:47 +0000 2012",
+            "text": "My Top 3 #lastfm Artists: Miley Cyrus (34), Alexandra Stan (34) &amp; ABBA vs Katy Perry (18) #weeklyfaves http://t.co/39Bor3tU",
+            "lat": null,
+            "long": null
+        }, {
+            "user_id": "80583499",
+            "created_at": "Sun Aug 12 13:19:00 +0000 2012",
+            "text": "I favorited a @YouTube video http://t.co/32uYIPvA Mike Oldfield Moonlight Shadow {Extended Version}.wmv",
+            "lat": null,
+            "long": null
+        }, {
+            "user_id": "80583499",
+            "created_at": "Sun Aug 12 13:18:39 +0000 2012",
+            "text": "I favorited a @YouTube video http://t.co/UAxyfLFG Whitney Houston How Will i Know {Dance Mix}.wmv",
+            "lat": null,
+            "long": null
+        }, {
+            "user_id": "80583499",
+            "created_at": "Sun Aug 12 04:31:15 +0000 2012",
+            "text": "I'm at Castle Towers (Castle Hill, NSW) http://t.co/7QWeuJPi",
+            "lat": -33.73117469,
+            "long": 151.00570679
+        }, {
+            "user_id": "80583499",
+            "created_at": "Sun Aug 12 02:45:33 +0000 2012",
+            "text": "I'm at WOWCOW (Parramatta, NSW) http://t.co/bmPyvx6o",
+            "lat": -33.81223134,
+            "long": 151.00384125
+        }, {
+            "user_id": "80583499",
+            "created_at": "Sun Aug 12 02:31:06 +0000 2012",
+            "text": "I'm at Beatdisc Records (Parramatta, NSW) http://t.co/JHSSx6bZ",
+            "lat": -33.81629028,
+            "long": 151.00268126
+        }, {
+            "user_id": "80583499",
+            "created_at": "Sun Aug 12 02:31:06 +0000 2012",
+            "text": "I just reached Level 2 of the \"Vinyl\" badge on @foursquare. I’ve checked in at 5 different record stores! http://t.co/sopRqqYL",
+            "lat": null,
+            "long": null
+        }, {
+            "user_id": "80583499",
+            "created_at": "Sun Aug 12 02:04:28 +0000 2012",
+            "text": "NOMZ (@ Le Wrap (Level Five)) http://t.co/INaLwtAt",
+            "lat": -33.817649,
+            "long": 151.001585
+        }, {
+            "user_id": "80583499",
+            "created_at": "Sun Aug 12 01:21:05 +0000 2012",
+            "text": "I'm at Westfield Parramatta (Parramatta, NSW) http://t.co/cnbouD3G",
+            "lat": -33.81771647,
+            "long": 151.00268126
+        }, {
+            "user_id": "80583499",
+            "created_at": "Sat Aug 11 13:47:39 +0000 2012",
+            "text": "Lady Gaga vs Azealia Banks - Hooker in the 212 Hooker in the 212 http://t.co/bgSwV6Su on #SoundCloud",
+            "lat": null,
+            "long": null
+        }, {
+            "user_id": "80583499",
+            "created_at": "Sat Aug 11 08:55:23 +0000 2012",
+            "text": "My new sounds: Hooker in the 212 (Snippet) http://t.co/ZLxwty52 on #SoundCloud",
+            "lat": null,
+            "long": null
+        }, {
+            "user_id": "80583499",
+            "created_at": "Thu Aug 09 23:51:40 +0000 2012",
+            "text": "@baderonus the didn't change it. The other was a placeholder/promo cover",
+            "lat": -33.72409017,
+            "long": 150.89348739
+        }, {
+            "user_id": "80583499",
+            "created_at": "Wed Aug 08 19:33:31 +0000 2012",
+            "text": "New mashup. 4 Gaga tracks in 1. Fashion of His Black Heavy Metal Paparazzi http://t.co/VxMTFfXe on #SoundCloud",
+            "lat": null,
+            "long": null
+        }, {
+            "user_id": "80583499",
+            "created_at": "Wed Aug 08 11:47:48 +0000 2012",
+            "text": "Jill: \"I don't know how to thank you guys.\" Phoebe: \"Nawww. I like cars.\" (Friends S06E13) http://t.co/ZwgsE36Q",
+            "lat": null,
+            "long": null
+        }, {
+            "user_id": "80583499",
+            "created_at": "Wed Aug 08 06:15:35 +0000 2012",
+            "text": "I'm at Blacktown Station (Platforms 1 &amp; 2) (Blacktown, NSW) http://t.co/vmM1OAoP",
+            "lat": -33.76813851,
+            "long": 150.90798988
+        }, {
+            "user_id": "80583499",
+            "created_at": "Tue Aug 07 22:53:18 +0000 2012",
+            "text": "This guy isn't too smart (@ Subway) http://t.co/IJwAbrsr",
+            "lat": -33.75911145,
+            "long": 150.72101176
+        }, {
+            "user_id": "80583499",
+            "created_at": "Tue Aug 07 22:50:29 +0000 2012",
+            "text": "I'm at Kingswood Railway Station (Kingswood, NSW) http://t.co/7Iz9OKqK",
+            "lat": -33.75813473,
+            "long": 150.71946144
+        }, {
+            "user_id": "80583499",
+            "created_at": "Tue Aug 07 22:22:59 +0000 2012",
+            "text": "THE NEXT TIME WE HANG OUT I WILL REDEEM MYSELF. MY HEART, IT CAN'T REST TIL THEN WOAH-WOAH I CAN'T WAIT 2 SEE U AGAIN http://t.co/78gfJuoo",
+            "lat": -33.76823141,
+            "long": 150.90747356
+        }, {
+            "user_id": "80583499",
+            "created_at": "Tue Aug 07 22:02:14 +0000 2012",
+            "text": "I just ousted Wayne S. as the mayor of Quakers Hill Station on @foursquare! http://t.co/us9BfBL4",
+            "lat": -33.72773339,
+            "long": 150.88636517
+        }, {
+            "user_id": "80583499",
+            "created_at": "Tue Aug 07 11:45:51 +0000 2012",
+            "text": "Ahhhhh finally, back to my precious bed that I love so much. (@ The Grinch's Lair) http://t.co/0CHkgxgQ",
+            "lat": -33.72065831,
+            "long": 150.89001452
+        }, {
+            "user_id": "80583499",
+            "created_at": "Tue Aug 07 09:35:10 +0000 2012",
+            "text": "I'm at The Den Adult Shop http://t.co/L7EMNGzO",
+            "lat": -33.878973,
+            "long": 151.214895
+        }, {
+            "user_id": "80583499",
+            "created_at": "Tue Aug 07 09:14:47 +0000 2012",
+            "text": "Lulz (@ Tool Shed) http://t.co/pRlw0ToC",
+            "lat": -33.87885862,
+            "long": 151.2146
+        }, {
+            "user_id": "80583499",
+            "created_at": "Tue Aug 07 08:34:26 +0000 2012",
+            "text": "I'm at Pastizzi Cafe Bar (Darlinghurst, NSW) http://t.co/JfZ6zdt5",
+            "lat": -33.879477,
+            "long": 151.215776
+        }, {
+            "user_id": "80583499",
+            "created_at": "Tue Aug 07 06:06:40 +0000 2012",
+            "text": "I am watching Snow White and the Huntsman. http://t.co/7VoZBRi3",
+            "lat": null,
+            "long": null
+        }, {
+            "user_id": "80583499",
+            "created_at": "Tue Aug 07 06:01:05 +0000 2012",
+            "text": "I'm at eVent Cinemas w/ @justin_88 http://t.co/JAh9wkKa",
+            "lat": -33.87543069,
+            "long": 151.20642185
+        }, {
+            "user_id": "80583499",
+            "created_at": "Tue Aug 07 05:49:45 +0000 2012",
+            "text": "I'm at Red Eye Records w/ @justin_88 http://t.co/8All1H6B",
+            "lat": -33.87245995,
+            "long": 151.20628238
+        }, {
+            "user_id": "80583499",
+            "created_at": "Tue Aug 07 03:06:39 +0000 2012",
+            "text": "I'm at Pizza Hut (Sydney, NSW) http://t.co/X2rUiAPM",
+            "lat": -33.87609431,
+            "long": 151.20653987
+        }, {
+            "user_id": "80583499",
+            "created_at": "Tue Aug 07 02:47:36 +0000 2012",
+            "text": "I'm at Town Hall Station (Main Concourse) w/ @justin_88 http://t.co/2am7mp2r",
+            "lat": -33.87390748,
+            "long": 151.20662034
+        }, {
+            "user_id": "80583499",
+            "created_at": "Tue Aug 07 02:46:48 +0000 2012",
+            "text": "I'm at Town Hall Station (Platforms 1 &amp; 2) (Sydney, NSW) http://t.co/WtuN5U2W",
+            "lat": -33.8737605,
+            "long": 151.20672226
+        }, {
+            "user_id": "80583499",
+            "created_at": "Tue Aug 07 02:33:46 +0000 2012",
+            "text": "I'm at Central Station (Platforms 20 &amp; 21) (Sydney, NSW) http://t.co/nhHQQcGb",
+            "lat": -33.88423989,
+            "long": 151.20709777
+        }, {
+            "user_id": "80583499",
+            "created_at": "Tue Aug 07 01:38:17 +0000 2012",
+            "text": "I'm at Blacktown Station (Platforms 4 &amp; 5) (Blacktown, NSW) http://t.co/sm9blyny",
+            "lat": -33.76859833,
+            "long": 150.9075752
+        }, {
+            "user_id": "80583499",
+            "created_at": "Tue Aug 07 01:32:56 +0000 2012",
+            "text": "So u can't get a 1/2 fare day pass but u can get a student which would b the same price. How does that work? http://t.co/oepkn80l",
+            "lat": -33.76865951,
+            "long": 150.90747356
+        }, {
+            "user_id": "80583499",
+            "created_at": "Mon Aug 06 02:05:14 +0000 2012",
+            "text": "Getting hur did (@ Allan's Mens Hairdressing) http://t.co/XDd7bTRM",
+            "lat": -33.77033,
+            "long": 150.906466
+        }, {
+            "user_id": "80583499",
+            "created_at": "Mon Aug 06 01:26:04 +0000 2012",
+            "text": "Spent way too much XD (@ Dan Murphy's) http://t.co/LbooIDz7",
+            "lat": -33.77761329,
+            "long": 150.9198997
+        }, {
+            "user_id": "80583499",
+            "created_at": "Mon Aug 06 00:54:26 +0000 2012",
+            "text": "My Top 3 #lastfm Artists: Alexandra Stan (28), Lana Del Rey (22) &amp; Elton John vs Pnau (12) #weeklyfaves http://t.co/39Bor3tU",
+            "lat": null,
+            "long": null
+        }, {
+            "user_id": "80583499",
+            "created_at": "Sun Aug 05 08:16:14 +0000 2012",
+            "text": "Joey: \"I don't know about who's here, but I can tell ya for damn sure who's not here, and that's Rachel!\"... (F... http://t.co/3wkD5DLe",
+            "lat": null,
+            "long": null
+        }, {
+            "user_id": "80583499",
+            "created_at": "Sun Aug 05 02:18:32 +0000 2012",
+            "text": "Holly: \"We call ourselves the Six Pack Pack. Isn't that so cute that you just want to throw up?\" Kirsten: \"All ... http://t.co/scvTf0oR",
+            "lat": null,
+            "long": null
+        }, {
+            "user_id": "80583499",
+            "created_at": "Sat Aug 04 21:32:00 +0000 2012",
+            "text": "I might go to Garçon Garçon at The Supper Club in Darlinghurst Nsw, Australia - Aug 18 http://t.co/dQbRhcdB",
+            "lat": null,
+            "long": null
+        }, {
+            "user_id": "80583499",
+            "created_at": "Fri Aug 03 06:28:47 +0000 2012",
+            "text": "Just scrobbled 86 songs from my iPhone with @CloudScrob! http://t.co/0LQuBjiW",
+            "lat": null,
+            "long": null
+        }, {
+            "user_id": "80583499",
+            "created_at": "Fri Aug 03 04:19:51 +0000 2012",
+            "text": "YOU'LL BE MINE, MINE, MINE! TONIGHT -NI-NIGHT I'M GONNA FIGHT FOR MY RIGHT (@ Trade Secret) http://t.co/pZY9cAU8",
+            "lat": -33.76614151,
+            "long": 150.82746529
+        }, {
+            "user_id": "80583499",
+            "created_at": "Fri Aug 03 04:14:47 +0000 2012",
+            "text": "BUT YOU CAN SEE IT IN MY EYES. YOU CAN READ IT ON MY LIPS. (@ Shop Smart) http://t.co/5pvjJoAr",
+            "lat": -33.76638357,
+            "long": 150.82665963
+        }, {
+            "user_id": "80583499",
+            "created_at": "Fri Aug 03 01:13:04 +0000 2012",
+            "text": "I'm at Sydney Harbour Bridge (Sydney, NSW) http://t.co/UrSjSXoF",
+            "lat": -33.85249937,
+            "long": 151.21050954
+        }, {
+            "user_id": "80583499",
+            "created_at": "Thu Aug 02 11:30:47 +0000 2012",
+            "text": "I'm at The Grinch's Lair (Quakers Hill, NSW) http://t.co/LLLynmoO",
+            "lat": -33.72065831,
+            "long": 150.89001452
+        }, {
+            "user_id": "80583499",
+            "created_at": "Thu Aug 02 09:02:10 +0000 2012",
+            "text": "I'm at Gelatissimo (Darling Harbour, NSW) http://t.co/9yLMHUt9",
+            "lat": -33.873164,
+            "long": 151.201491
+        }, {
+            "user_id": "80583499",
+            "created_at": "Thu Aug 02 06:55:13 +0000 2012",
+            "text": "I'm at Bang Clothing (Darlinghurst, NSW) http://t.co/ZNGcxSrW",
+            "lat": -33.881069,
+            "long": 151.216908
+        }, {
+            "user_id": "80583499",
+            "created_at": "Thu Aug 02 06:54:50 +0000 2012",
+            "text": "I'm at teamm8 Studio (Surry Hills, NSW) http://t.co/1EH0Q0ji",
+            "lat": -33.881901,
+            "long": 151.21651203
+        }, {
+            "user_id": "80583499",
+            "created_at": "Thu Aug 02 05:17:13 +0000 2012",
+            "text": "I'm at Happy Lab (Sydney, New South Wales) http://t.co/v1nAcJd2",
+            "lat": -33.87002916,
+            "long": 151.20882408
+        }, {
+            "user_id": "80583499",
+            "created_at": "Thu Aug 02 04:51:10 +0000 2012",
+            "text": "I'm at Westfield Sydney w/ @justin_88 http://t.co/PfDEX8UI",
+            "lat": -33.87029529,
+            "long": 151.20895922
+        }, {
+            "user_id": "80583499",
+            "created_at": "Thu Aug 02 03:53:46 +0000 2012",
+            "text": "I'm at Nando's (Sydney, NSW) http://t.co/vCQlQAgf",
+            "lat": -33.869312,
+            "long": 151.204895
+        }, {
+            "user_id": "80583499",
+            "created_at": "Thu Aug 02 03:51:53 +0000 2012",
+            "text": "I'm at Pitt Street Mall (Sydney, NSW) w/ 2 others http://t.co/6youE67U",
+            "lat": -33.86986324,
+            "long": 151.20824575
+        }, {
+            "user_id": "80583499",
+            "created_at": "Thu Aug 02 03:37:01 +0000 2012",
+            "text": "I'm at Town Hall Station (Main Concourse) w/ @justin_88 http://t.co/iBPcwVnF",
+            "lat": -33.87390748,
+            "long": 151.20662034
+        }, {
+            "user_id": "80583499",
+            "created_at": "Thu Aug 02 03:28:42 +0000 2012",
+            "text": "I'm at Central Station (Platforms 10 &amp; 11) (Sydney, NSW) http://t.co/2BoLY3rz",
+            "lat": -33.88366986,
+            "long": 151.20633602
+        }, {
+            "user_id": "80583499",
+            "created_at": "Thu Aug 02 02:48:16 +0000 2012",
+            "text": "YOU'RE JUST PUSHING ME DOWN, PUSHING ME DOWN, PUSHING ME DOWN. THEY TELL YA TRUST YOUR HEAD http://t.co/yfdgYskl",
+            "lat": -33.76859833,
+            "long": 150.9075752
+        }, {
+            "user_id": "80583499",
+            "created_at": "Wed Aug 01 21:30:08 +0000 2012",
+            "text": "My new sounds: ABBA vs Katy Perry - The Super Trouper That Got Away http://t.co/sqyjTCMk on #SoundCloud",
+            "lat": null,
+            "long": null
+        }, {
+            "user_id": "80583499",
+            "created_at": "Tue Jul 31 22:36:20 +0000 2012",
+            "text": "I'm at Kingswood Railway Station (Kingswood, NSW) http://t.co/qrF0sRay",
+            "lat": -33.75813473,
+            "long": 150.71946144
+        }, {
+            "user_id": "80583499",
+            "created_at": "Tue Jul 31 22:06:52 +0000 2012",
+            "text": "I'm at Blacktown Station (Platforms 6 &amp; 7) (Blacktown, NSW) http://t.co/Nv5408a3",
+            "lat": -33.76823141,
+            "long": 150.90747356
+        }, {
+            "user_id": "80583499",
+            "created_at": "Tue Jul 31 22:02:00 +0000 2012",
+            "text": "I'm at Blacktown Station w/ @astrodamo http://t.co/FlGLtmA0",
+            "lat": -33.76865951,
+            "long": 150.90747356
+        }, {
+            "user_id": "80583499",
+            "created_at": "Tue Jul 31 21:54:04 +0000 2012",
+            "text": "QUESTION MUM AND QUESTION DAD QUESTION GOOD AND QUESTION BAD (@ Quakers Hill Station) http://t.co/hZYlTs1A",
+            "lat": -33.72773339,
+            "long": 150.88636517
+        }, {
+            "user_id": "80583499",
+            "created_at": "Tue Jul 31 03:34:58 +0000 2012",
+            "text": "I'm at Le Wrap Penrith http://t.co/ejnbIvh4",
+            "lat": -33.750348,
+            "long": 150.695334
+        }, {
+            "user_id": "80583499",
+            "created_at": "Tue Jul 31 03:14:52 +0000 2012",
+            "text": "I'm at Westfield Penrith (Penrith, NSW) http://t.co/ijwPRjxx",
+            "lat": -33.75117758,
+            "long": 150.6938225
+        }, {
+            "user_id": "80583499",
+            "created_at": "Tue Jul 31 00:40:56 +0000 2012",
+            "text": "I'm at Hillside Hotel (Sydney, Australia) http://t.co/0GzjPpdk",
+            "lat": -33.73363841,
+            "long": 151.00469957
+        }, {
+            "user_id": "80583499",
+            "created_at": "Tue Jul 31 00:00:31 +0000 2012",
+            "text": "I'm at Castle Towers (Castle Hill, NSW) http://t.co/XjedlgeE",
+            "lat": -33.73117469,
+            "long": 151.00570679
+        }, {
+            "user_id": "80583499",
+            "created_at": "Mon Jul 30 17:52:01 +0000 2012",
+            "text": "New mashup. Something I quickly put together because I was bored. Marry the Lights (Rough) http://t.co/8kdT12Tb on #SoundCloud",
+            "lat": null,
+            "long": null
+        }, {
+            "user_id": "80583499",
+            "created_at": "Mon Jul 30 02:11:03 +0000 2012",
+            "text": "My Top 3 #lastfm Artists: Wonder Girls (18), Alexandra Stan (14) &amp; Havana Brown (8) #weeklyfaves http://t.co/39Bor3tU",
+            "lat": null,
+            "long": null
+        }, {
+            "user_id": "80583499",
+            "created_at": "Sun Jul 29 18:09:20 +0000 2012",
+            "text": "Summer: \"Remember when the boys made us watch that movie about the gay guys on mountain?\" Marissa: \"Lord of the... http://t.co/N3Iy6tkY",
+            "lat": null,
+            "long": null
+        }, {
+            "user_id": "80583499",
+            "created_at": "Fri Jul 27 06:57:05 +0000 2012",
+            "text": "I'm at Newcastle Bus Interchange (Newcastle, NSW) http://t.co/9PHCjV5I",
+            "lat": -32.92622051,
+            "long": 151.78414764
+        }, {
+            "user_id": "80583499",
+            "created_at": "Fri Jul 27 04:01:34 +0000 2012",
+            "text": "I'm at Charlestown Square Shopping Centre (Charlestown, NSW) w/ 3 others http://t.co/EymxoDMk",
+            "lat": -32.96352662,
+            "long": 151.69411136
+        }, {
+            "user_id": "80583499",
+            "created_at": "Fri Jul 27 03:11:06 +0000 2012",
+            "text": "I'm at Nando's (Charlestown, NSW) http://t.co/u4hjGW52",
+            "lat": -32.965396,
+            "long": 151.694244
+        }, {
+            "user_id": "80583499",
+            "created_at": "Fri Jul 27 00:46:41 +0000 2012",
+            "text": "Memories *sigh* :( miss you sometimes (@ Hawkesbury River Station (Platform 2)) http://t.co/NnuNPIrg",
+            "lat": -33.5466547,
+            "long": 151.22709543
+        }, {
+            "user_id": "80583499",
+            "created_at": "Thu Jul 26 23:58:16 +0000 2012",
+            "text": "I'm at Strathfield Station (Platforms 3 &amp; 4) (Strathfield, NSW) http://t.co/8AwAPfqk",
+            "lat": -33.87178612,
+            "long": 151.09459932
+        }, {
+            "user_id": "80583499",
+            "created_at": "Thu Jul 26 08:20:37 +0000 2012",
+            "text": "I am watching Magic Mike. http://t.co/USKo7Af0",
+            "lat": null,
+            "long": null
+        }, {
+            "user_id": "80583499",
+            "created_at": "Thu Jul 26 08:18:37 +0000 2012",
+            "text": "I'm at eVent Cinemas (Bondi Junction, NSW) http://t.co/rKd32t4R",
+            "lat": -33.891135,
+            "long": 151.251363
+        }, {
+            "user_id": "80583499",
+            "created_at": "Thu Jul 26 07:52:50 +0000 2012",
+            "text": "Lol there's a guy with Tourette's here (@ Westfield Bondi Junction w/ @justin_88) http://t.co/xRwiXZTt",
+            "lat": -33.89180504,
+            "long": 151.25039587
+        }, {
+            "user_id": "80583499",
+            "created_at": "Thu Jul 26 06:56:10 +0000 2012",
+            "text": "I'm at Chinatown Night Market (Haymarket, NSW) http://t.co/u7HiPwV2",
+            "lat": -33.878326,
+            "long": 151.203918
+        }, {
+            "user_id": "80583499",
+            "created_at": "Thu Jul 26 03:04:12 +0000 2012",
+            "text": "I'm at Town Hall Station (Main Concourse) (Sydney, NSW) http://t.co/3KubvLhf",
+            "lat": -33.87390748,
+            "long": 151.20662034
+        }, {
+            "user_id": "80583499",
+            "created_at": "Thu Jul 26 01:55:43 +0000 2012",
+            "text": "TONIGHT IS THE NIGHT, IS THE NIGHT THAT WE'RE LOSIN CONTROL (@ Blacktown Station (Platforms 4 &amp; 5)) http://t.co/ai8v3c3y",
+            "lat": -33.76859833,
+            "long": 150.9075752
+        }, {
+            "user_id": "80583499",
+            "created_at": "Wed Jul 25 15:16:12 +0000 2012",
+            "text": "I am watching Adventure Time, Gotcha (S04E12). http://t.co/ip6jKJSS",
+            "lat": null,
+            "long": null
+        }, {
+            "user_id": "80583499",
+            "created_at": "Wed Jul 25 14:53:06 +0000 2012",
+            "text": "I am watching Adventure Time, Card Wars (S04E14). http://t.co/XuI7uTDO",
+            "lat": null,
+            "long": null
+        }, {
+            "user_id": "80583499",
+            "created_at": "Wed Jul 25 14:37:14 +0000 2012",
+            "text": "I am watching Adventure Time, Sons of Mars (S04E15). http://t.co/qd45Xd4O",
+            "lat": null,
+            "long": null
+        }, {
+            "user_id": "80583499",
+            "created_at": "Wed Jul 25 11:52:31 +0000 2012",
+            "text": "I'm at The Grinch's Lair (Quakers Hill, NSW) http://t.co/R1TGOqDN",
+            "lat": -33.72065831,
+            "long": 150.89001452
+        }, {
+            "user_id": "80583499",
+            "created_at": "Wed Jul 25 11:03:07 +0000 2012",
+            "text": "I'm at Eagle Boys Pizza (Quakers Hill, NSW) http://t.co/z6ejsXVO",
+            "lat": -33.73001474,
+            "long": 150.90307474
+        }, {
+            "user_id": "80583499",
+            "created_at": "Wed Jul 25 11:03:07 +0000 2012",
+            "text": "I just reached Level 3 of the \"Pizzaiolo\" badge on @foursquare. I’ve checked in at 10 different pizza joints! http://t.co/w4NWNbYs",
+            "lat": null,
+            "long": null
+        }, {
+            "user_id": "80583499",
+            "created_at": "Tue Jul 24 18:32:19 +0000 2012",
+            "text": "I am watching Hot In Cleveland, Sisterhood of the Trav... (S02E04). http://t.co/ijaBrDYc",
+            "lat": null,
+            "long": null
+        }, {
+            "user_id": "80583499",
+            "created_at": "Tue Jul 24 14:23:28 +0000 2012",
+            "text": "I am watching Hot In Cleveland, Hot For Lawyer (S02E03). http://t.co/OdDpuDjI",
+            "lat": null,
+            "long": null
+        }, {
+            "user_id": "80583499",
+            "created_at": "Tue Jul 24 13:19:40 +0000 2012",
+            "text": "I am watching Hot In Cleveland, Bad Bromance (S02E02). http://t.co/WGVHMZge",
+            "lat": null,
+            "long": null
+        }, {
+            "user_id": "80583499",
+            "created_at": "Tue Jul 24 12:00:39 +0000 2012",
+            "text": "I'm at Blacktown Bus Interchange (Blacktown, NSW) http://t.co/pvmBnBDv",
+            "lat": -33.768041,
+            "long": 150.906759
+        }, {
+            "user_id": "80583499",
+            "created_at": "Tue Jul 24 07:27:26 +0000 2012",
+            "text": "I am watching The Dark Knight Rises. http://t.co/O1WuL6J5",
+            "lat": null,
+            "long": null
+        }],
+        "352158211": [{
+            "user_id": "352158211",
+            "created_at": "Thu Mar 08 01:55:00 +0000 2012",
+            "text": "C MY GPX. \\o/",
+            "lat": -37.97583095,
+            "long": 145.09197052
+        }, {
+            "user_id": "352158211",
+            "created_at": "Fri Feb 17 09:14:40 +0000 2012",
+            "text": "@thinesh94 yes sir. Hard to explain. But I'm happy with my car. :)",
+            "lat": -37.9589289,
+            "long": 145.05419579
+        }, {
+            "user_id": "352158211",
+            "created_at": "Thu Feb 16 21:15:59 +0000 2012",
+            "text": "@thinesh94 no problemo.\nWanted to get a Supra, abit high maintanence if get the car. Supra = Sex.",
+            "lat": -37.96828889,
+            "long": 145.07904466
+        }, {
+            "user_id": "352158211",
+            "created_at": "Thu Feb 16 21:12:17 +0000 2012",
+            "text": "@thinesh94 Mitsubishi FTO GPX. You should see what's under the hood. ;)",
+            "lat": -37.96644982,
+            "long": 145.06439953
+        }, {
+            "user_id": "352158211",
+            "created_at": "Thu Feb 16 21:10:16 +0000 2012",
+            "text": "@thinesh94 yeah bro. Finally bought my first car lol. Once it's done getting overhauled, I'll take a picture with it! (:",
+            "lat": -37.96551429,
+            "long": 145.05722418
+        }, {
+            "user_id": "352158211",
+            "created_at": "Thu Feb 16 21:04:10 +0000 2012",
+            "text": "My first ride. Love of my life. http://t.co/CCBijph6",
+            "lat": -37.96699121,
+            "long": 145.05573044
+        }, {
+            "user_id": "352158211",
+            "created_at": "Tue Jan 10 13:15:12 +0000 2012",
+            "text": "@NadiaFly it's not good for your wallet. That's fo sho!",
+            "lat": -37.97856275,
+            "long": 145.05468083
+        }, {
+            "user_id": "352158211",
+            "created_at": "Tue Jan 10 00:36:55 +0000 2012",
+            "text": "@Jezeb_Ali I've been good, good! You?! (:\n\nI fucking love the car! Perfection at its finest.",
+            "lat": -37.9668239,
+            "long": 145.05576074
+        }, {
+            "user_id": "352158211",
+            "created_at": "Sun Jan 08 09:08:37 +0000 2012",
+            "text": "@Jarjitikaa much better now. Your picture; who's that?",
+            "lat": -37.95909373,
+            "long": 145.0537672
+        }, {
+            "user_id": "352158211",
+            "created_at": "Sat Jan 07 12:33:58 +0000 2012",
+            "text": "@thinesh94 the best trilogy. Enough said.",
+            "lat": -37.97862926,
+            "long": 145.05466509
+        }, {
+            "user_id": "352158211",
+            "created_at": "Sat Jan 07 12:30:59 +0000 2012",
+            "text": "@thinesh94 then cekap la. I did it two weeks ago! Power la",
+            "lat": -37.97855812,
+            "long": 145.05491905
+        }, {
+            "user_id": "352158211",
+            "created_at": "Sat Jan 07 12:29:29 +0000 2012",
+            "text": "@thinesh94 i doubt you can do it! Hihi",
+            "lat": -37.97858055,
+            "long": 145.05467856
+        }, {
+            "user_id": "352158211",
+            "created_at": "Thu Dec 22 12:32:49 +0000 2011",
+            "text": "@ItsmeLaveniya I fucking hate the new twitter interface on iPhone. Find me on FB. Hihi",
+            "lat": -37.97850225,
+            "long": 145.05481544
+        }, {
+            "user_id": "352158211",
+            "created_at": "Mon Dec 19 12:15:38 +0000 2011",
+            "text": "@RRavin cloud 9 feeling.",
+            "lat": -37.9630679,
+            "long": 145.0559195
+        }, {
+            "user_id": "352158211",
+            "created_at": "Mon Dec 19 09:24:33 +0000 2011",
+            "text": "Tonight's gonna be a long fucking night for me.",
+            "lat": -37.9586931,
+            "long": 145.05482112
+        }, {
+            "user_id": "352158211",
+            "created_at": "Fri Dec 16 13:03:59 +0000 2011",
+            "text": "@ItsmeLaveniya Finished work at 11:30. \n\nCome on Skype.",
+            "lat": -37.97864546,
+            "long": 145.05502238
+        }, {
+            "user_id": "352158211",
+            "created_at": "Fri Dec 16 04:44:31 +0000 2011",
+            "text": "I'm at Intermezzo (Westfield Southland, 1239-1241 Nepean Hwy, Cheltenham) http://t.co/2nNh5QXv",
+            "lat": -37.959273,
+            "long": 145.053892
+        }, {
+            "user_id": "352158211",
+            "created_at": "Thu Dec 15 23:51:00 +0000 2011",
+            "text": "@ItsmeLaveniya Have a good day too my dear :) Smileeee!",
+            "lat": -37.97861468,
+            "long": 145.05482793
+        }, {
+            "user_id": "352158211",
+            "created_at": "Thu Dec 15 23:50:30 +0000 2011",
+            "text": "@ItsmeLaveniya I'm watching Glee S03E09 :)",
+            "lat": -37.97859733,
+            "long": 145.05478157
+        }, {
+            "user_id": "352158211",
+            "created_at": "Thu Dec 15 22:38:35 +0000 2011",
+            "text": "Good morning yo!",
+            "lat": -37.97839083,
+            "long": 145.05477497
+        }, {
+            "user_id": "352158211",
+            "created_at": "Thu Dec 15 16:32:20 +0000 2011",
+            "text": "Not sure if I'm having a bad day or you're just fucken annoying?!",
+            "lat": -37.97862618,
+            "long": 145.05477175
+        }, {
+            "user_id": "352158211",
+            "created_at": "Thu Dec 15 01:00:39 +0000 2011",
+            "text": "New twitter app is like shit. :/",
+            "lat": -37.978632,
+            "long": 145.05470514
+        }, {
+            "user_id": "352158211",
+            "created_at": "Wed Dec 14 10:06:07 +0000 2011",
+            "text": "Ohhhh seagulls are fucking hard birds to stay still. Difficult to take a steady picture; I'll upload em later on FB. \n\nLens; 70-300mm.",
+            "lat": -37.92792371,
+            "long": 144.99265917
+        }, {
+            "user_id": "352158211",
+            "created_at": "Wed Dec 14 10:04:45 +0000 2011",
+            "text": "It's 9pm, and what a beautiful sunset at St Kilda. Sadly I'm in the bus otw back home. Took a few shots. New baby got me attention. ������",
+            "lat": -37.9274279,
+            "long": 144.99420636
+        }, {
+            "user_id": "352158211",
+            "created_at": "Wed Dec 14 10:03:48 +0000 2011",
+            "text": "@aimeelovesrice harrooooo.",
+            "lat": -37.92489504,
+            "long": 144.9947835
+        }, {
+            "user_id": "352158211",
+            "created_at": "Wed Dec 14 09:42:39 +0000 2011",
+            "text": "Such a tiring day ������",
+            "lat": -37.86930352,
+            "long": 144.98097791
+        }, {
+            "user_id": "352158211",
+            "created_at": "Wed Dec 14 07:02:47 +0000 2011",
+            "text": "I'm at Fusion (Crown Complex, 8 Whiteman St, Southbank) http://t.co/ZdaMakKT",
+            "lat": -37.823504,
+            "long": 144.957342
+        }, {
+            "user_id": "352158211",
+            "created_at": "Wed Dec 14 03:15:01 +0000 2011",
+            "text": "I just unlocked the Level 2 \"Great Outdoors\" badge on @foursquare! In it to win it! http://t.co/z02kLU60",
+            "lat": null,
+            "long": null
+        }, {
+            "user_id": "352158211",
+            "created_at": "Tue Dec 13 23:34:03 +0000 2011",
+            "text": "Wife: Honey, your boss called me n said you got fired this morning.\nHusband: Fuck him!\nWife: I did, you can go back to work on Monday.",
+            "lat": -37.97549131,
+            "long": 145.09214904
+        }, {
+            "user_id": "352158211",
+            "created_at": "Tue Dec 13 23:30:36 +0000 2011",
+            "text": "@heyhunnymadu Hiiiii :)",
+            "lat": -37.97574387,
+            "long": 145.0922002
+        }, {
+            "user_id": "352158211",
+            "created_at": "Tue Dec 13 23:30:24 +0000 2011",
+            "text": "I bet I can maı̸̸̸̸̸̸̸̸̸̸̸̸̸̸̸̸̸̸̨̨̨̨̨̨ke you wipe your screen",
+            "lat": -37.97584406,
+            "long": 145.09233948
+        }, {
+            "user_id": "352158211",
+            "created_at": "Tue Dec 13 21:46:47 +0000 2011",
+            "text": "So why don't we go, somewhere only we knowwwwww.",
+            "lat": -37.96870905,
+            "long": 145.05508172
+        }, {
+            "user_id": "352158211",
+            "created_at": "Tue Dec 13 21:46:21 +0000 2011",
+            "text": "So tell me when, you gonna let me in.",
+            "lat": -37.96911691,
+            "long": 145.0551091
+        }, {
+            "user_id": "352158211",
+            "created_at": "Tue Dec 13 11:39:18 +0000 2011",
+            "text": "@thinesh94 I miss driving.",
+            "lat": -37.97863356,
+            "long": 145.0547295
+        }, {
+            "user_id": "352158211",
+            "created_at": "Tue Dec 13 11:37:41 +0000 2011",
+            "text": "@thinesh94 cause you're a guy. We guy have natural driving talent. lol",
+            "lat": -37.97854461,
+            "long": 145.05471012
+        }, {
+            "user_id": "352158211",
+            "created_at": "Tue Dec 13 11:31:44 +0000 2011",
+            "text": "@thinesh94 by one year driving, you'd be better than your sister. You know why?",
+            "lat": -37.97862693,
+            "long": 145.05348478
+        }, {
+            "user_id": "352158211",
+            "created_at": "Tue Dec 13 11:29:52 +0000 2011",
+            "text": "@thinesh94 When I turun kita pigi driving okay; night driving.",
+            "lat": -37.97040862,
+            "long": 145.05488894
+        }, {
+            "user_id": "352158211",
+            "created_at": "Tue Dec 13 11:29:09 +0000 2011",
+            "text": "Tomorrow I'm getting a haircut &  dying my hair! \\ o / \n\nBut what colour? ������",
+            "lat": -37.96713062,
+            "long": 145.05533821
+        }, {
+            "user_id": "352158211",
+            "created_at": "Tue Dec 13 09:53:09 +0000 2011",
+            "text": "I miss Flinders.",
+            "lat": -37.95890335,
+            "long": 145.05416234
+        }, {
+            "user_id": "352158211",
+            "created_at": "Tue Dec 13 05:06:42 +0000 2011",
+            "text": "@shanazstephen lunch and sleep does ;)",
+            "lat": -37.97543077,
+            "long": 145.08923994
+        }, {
+            "user_id": "352158211",
+            "created_at": "Tue Dec 13 04:43:59 +0000 2011",
+            "text": "True! “@phatfabes: Mostly MLM and Insurance RT @ganee: If u pass by Starbucks or kopitiam, u will see all kind of business deals going on.”",
+            "lat": -37.97550523,
+            "long": 145.09201541
+        }, {
+            "user_id": "352158211",
+            "created_at": "Tue Dec 13 04:30:09 +0000 2011",
+            "text": "@JackieDolls just asking, hihi (: curiosity!",
+            "lat": -37.97563763,
+            "long": 145.09220442
+        }, {
+            "user_id": "352158211",
+            "created_at": "Tue Dec 13 04:29:50 +0000 2011",
+            "text": "@thinesh94 who's ze idiot?",
+            "lat": -37.97601215,
+            "long": 145.09231322
+        }, {
+            "user_id": "352158211",
+            "created_at": "Tue Dec 13 04:26:37 +0000 2011",
+            "text": "@JackieDolls where do you work?",
+            "lat": -37.97596303,
+            "long": 145.092485
+        }, {
+            "user_id": "352158211",
+            "created_at": "Tue Dec 13 04:26:03 +0000 2011",
+            "text": "@thinesh94 ??",
+            "lat": -37.97586041,
+            "long": 145.09240164
+        }, {
+            "user_id": "352158211",
+            "created_at": "Tue Dec 13 02:08:44 +0000 2011",
+            "text": "@sandeeppannu3 I know right ������",
+            "lat": -37.97600552,
+            "long": 145.09242804
+        }, {
+            "user_id": "352158211",
+            "created_at": "Tue Dec 13 02:04:57 +0000 2011",
+            "text": "@sandeeppannu3 woooo hoooo! ;) can't wait to come down, I have around 190 days I think. :(",
+            "lat": -37.97600725,
+            "long": 145.09244751
+        }, {
+            "user_id": "352158211",
+            "created_at": "Tue Dec 13 01:59:45 +0000 2011",
+            "text": "@sandeeppannu3 eh next year belanja me okay! ;)",
+            "lat": -37.97591835,
+            "long": 145.09216656
+        }, {
+            "user_id": "352158211",
+            "created_at": "Tue Dec 13 01:56:05 +0000 2011",
+            "text": "@sandeeppannu3 you need a time out; go have some ice cream! ;)",
+            "lat": -37.97566662,
+            "long": 145.09217017
+        }, {
+            "user_id": "352158211",
+            "created_at": "Tue Dec 13 01:48:00 +0000 2011",
+            "text": "@sandeeppannu3 relaxxxxxx! ;)",
+            "lat": -37.97584281,
+            "long": 145.09221022
+        }, {
+            "user_id": "352158211",
+            "created_at": "Tue Dec 13 00:39:24 +0000 2011",
+            "text": "@JuliaPan Hahaha okay okay! ;) xx \n\n\n������",
+            "lat": -37.96656598,
+            "long": 145.0653596
+        }, {
+            "user_id": "352158211",
+            "created_at": "Tue Dec 13 00:36:32 +0000 2011",
+            "text": "@JuliaPan omg sorry hun, yes now I remember you told me. Haaaaa, lazy bum! It's 11:36 already! :P",
+            "lat": -37.96576675,
+            "long": 145.05762264
+        }, {
+            "user_id": "352158211",
+            "created_at": "Tue Dec 13 00:32:31 +0000 2011",
+            "text": "@JuliaPan where where? What course?",
+            "lat": -37.96717904,
+            "long": 145.05572544
+        }, {
+            "user_id": "352158211",
+            "created_at": "Mon Dec 12 13:47:51 +0000 2011",
+            "text": "@rebeccaocc please say Hi. I can't find you lol",
+            "lat": -37.9786325,
+            "long": 145.05478415
+        }, {
+            "user_id": "352158211",
+            "created_at": "Mon Dec 12 12:21:30 +0000 2011",
+            "text": "@rebeccaocc yes I know, can see! :) are we friends on FB? idk wor.",
+            "lat": -37.97858113,
+            "long": 145.05474894
+        }, {
+            "user_id": "352158211",
+            "created_at": "Mon Dec 12 11:51:13 +0000 2011",
+            "text": "I never thought I'd actually give her away a month later.",
+            "lat": -37.95773382,
+            "long": 145.05288356
+        }, {
+            "user_id": "352158211",
+            "created_at": "Mon Dec 12 11:49:40 +0000 2011",
+            "text": "@JuliaPan nope, nope. Make sure you're free when I'm down! I've never done a photo shoot before!",
+            "lat": -37.95760384,
+            "long": 145.05324797
+        }, {
+            "user_id": "352158211",
+            "created_at": "Mon Dec 12 09:32:37 +0000 2011",
+            "text": "@JuliaPan omg, no no! I want chickenzzzz ricezzzz!",
+            "lat": -37.95926676,
+            "long": 145.05336055
+        }, {
+            "user_id": "352158211",
+            "created_at": "Mon Dec 12 09:32:10 +0000 2011",
+            "text": "@rebeccaocc hey, nice picture! So cute!",
+            "lat": -37.95926894,
+            "long": 145.05334403
+        }, {
+            "user_id": "352158211",
+            "created_at": "Mon Dec 12 08:29:35 +0000 2011",
+            "text": "@divyabhullar have fun! ;) btw, where are you studying?",
+            "lat": -37.95896798,
+            "long": 145.05408044
+        }, {
+            "user_id": "352158211",
+            "created_at": "Mon Dec 12 08:29:14 +0000 2011",
+            "text": "@rebeccaocc oh my god! Are they cool or annoying? lol",
+            "lat": -37.95896798,
+            "long": 145.05408044
+        }, {
+            "user_id": "352158211",
+            "created_at": "Mon Dec 12 03:32:02 +0000 2011",
+            "text": "@trishalagill oh why? :(",
+            "lat": -37.97787993,
+            "long": 145.05345551
+        }, {
+            "user_id": "352158211",
+            "created_at": "Mon Dec 12 03:31:46 +0000 2011",
+            "text": "@ItsmeLaveniya haha yes! I'm starting work at 3 today. Gotta work more if I wanna buy ze Nikon D3100!",
+            "lat": -37.97790437,
+            "long": 145.05343575
+        }, {
+            "user_id": "352158211",
+            "created_at": "Mon Dec 12 00:08:34 +0000 2011",
+            "text": "@divyabhullar that is AWESOME, but for how long?",
+            "lat": -37.97857218,
+            "long": 145.05469731
+        }, {
+            "user_id": "352158211",
+            "created_at": "Sun Dec 11 16:13:55 +0000 2011",
+            "text": "@trishalagill Done! http://t.co/LFiVBXqq",
+            "lat": -37.97857269,
+            "long": 145.0546909
+        }, {
+            "user_id": "352158211",
+            "created_at": "Sun Dec 11 16:11:17 +0000 2011",
+            "text": "@trishalagill should've add the meme together!",
+            "lat": -37.97857675,
+            "long": 145.05478616
+        }, {
+            "user_id": "352158211",
+            "created_at": "Thu May 26 02:20:32 +0000 1994",
+            "text": "@JuliaPan Haha okay nice! Make sure ah don't forget ! I'll go for a few soon! Make myself more pro! ;) \n\nBuy me chicken rice in return, lol",
+            "lat": -37.97859824,
+            "long": 145.05474119
+        }, {
+            "user_id": "352158211",
+            "created_at": "Sun Dec 11 16:10:00 +0000 2011",
+            "text": "@rebeccaocc I've been through that situation before! Are they still there?",
+            "lat": -37.97864162,
+            "long": 145.0548161
+        }, {
+            "user_id": "352158211",
+            "created_at": "Sun Dec 11 12:29:23 +0000 2011",
+            "text": "@JuliaPan I thought we could have a chat, haha.\n\n\nYes yes, no problem! I do need people to experiment my shoots with! Serious aa? Haha.",
+            "lat": -37.97856386,
+            "long": 145.05474291
+        }, {
+            "user_id": "352158211",
+            "created_at": "Sun Dec 11 12:16:30 +0000 2011",
+            "text": "@JuliaPan come on iMessage! Text me, I explainnnnnn :)",
+            "lat": -37.97829303,
+            "long": 145.05435965
+        }, {
+            "user_id": "352158211",
+            "created_at": "Sun Dec 11 12:15:42 +0000 2011",
+            "text": "♫ soundtracking \"Changed the Way You Kiss Me (Live)\" by @example http://t.co/J03KtJtv",
+            "lat": null,
+            "long": null
+        }, {
+            "user_id": "352158211",
+            "created_at": "Sun Dec 11 12:00:11 +0000 2011",
+            "text": "#elclasico\n\nMourinho is the first coach in the history of Real Madrid not to win any of his first 4 home games vs Barcelona!",
+            "lat": -37.97857375,
+            "long": 145.0546899
+        }, {
+            "user_id": "352158211",
+            "created_at": "Sun Dec 11 11:59:01 +0000 2011",
+            "text": "@JackieDolls Do you fancy trance?",
+            "lat": -37.97864794,
+            "long": 145.05489303
+        }, {
+            "user_id": "352158211",
+            "created_at": "Sun Dec 11 11:57:25 +0000 2011",
+            "text": "@divyabhullar 10 days for? (:",
+            "lat": -37.97873546,
+            "long": 145.0548047
+        }, {
+            "user_id": "352158211",
+            "created_at": "Sun Dec 11 11:57:14 +0000 2011",
+            "text": "@ItsmeLaveniya come online, ASAP.",
+            "lat": -37.97873546,
+            "long": 145.0548047
+        }, {
+            "user_id": "352158211",
+            "created_at": "Sun Dec 11 11:57:04 +0000 2011",
+            "text": "@thinesh94 dei, I replied.",
+            "lat": -37.9785748,
+            "long": 145.05468859
+        }, {
+            "user_id": "352158211",
+            "created_at": "Sun Dec 11 11:56:10 +0000 2011",
+            "text": "@rebeccaocc I feel you.",
+            "lat": -37.97870493,
+            "long": 145.05469447
+        }, {
+            "user_id": "352158211",
+            "created_at": "Sun Dec 11 11:55:57 +0000 2011",
+            "text": "@JackieDolls Hahahaha!",
+            "lat": -37.97861965,
+            "long": 145.05466491
+        }, {
+            "user_id": "352158211",
+            "created_at": "Sun Dec 11 10:34:52 +0000 2011",
+            "text": "I just ousted Jessie P. as the mayor of The Coffee Club on @foursquare! http://t.co/HFL8qlp8",
+            "lat": -37.959183,
+            "long": 145.053976
+        }, {
+            "user_id": "352158211",
+            "created_at": "Sun Dec 11 01:40:36 +0000 2011",
+            "text": "@JuliaPan Nikon D5100 !",
+            "lat": -37.97865008,
+            "long": 145.05485534
+        }, {
+            "user_id": "352158211",
+            "created_at": "Sun Dec 11 01:32:06 +0000 2011",
+            "text": "@JuliaPan Nope! I got iPhone 4, don't want waste money buy iPhone 4s. Guess, guess!",
+            "lat": -37.97863379,
+            "long": 145.05472657
+        }, {
+            "user_id": "352158211",
+            "created_at": "Sun Dec 11 01:23:42 +0000 2011",
+            "text": "FINALLY! I GOT MY NEW TOY! :)",
+            "lat": -37.9785465,
+            "long": 145.05472704
+        }, {
+            "user_id": "352158211",
+            "created_at": "Sat Dec 10 08:18:00 +0000 2011",
+            "text": "I'm at Intermezzo (Westfield Southland, 1239-1241 Nepean Hwy, Cheltenham) http://t.co/SyLO0iol",
+            "lat": -37.959273,
+            "long": 145.053892
+        }, {
+            "user_id": "352158211",
+            "created_at": "Fri Dec 09 19:56:14 +0000 2011",
+            "text": "I just became the mayor of Cafe Bordeaux on @foursquare! http://t.co/NKRNl2iI",
+            "lat": -37.97927,
+            "long": 145.053317
+        }, {
+            "user_id": "352158211",
+            "created_at": "Fri Dec 09 19:42:52 +0000 2011",
+            "text": "Good morning! It's a lovely Saturday morning!",
+            "lat": -37.9786012,
+            "long": 145.05460929
+        }, {
+            "user_id": "352158211",
+            "created_at": "Fri Dec 09 15:37:08 +0000 2011",
+            "text": "Found this amazing and quick way to weight-loss, its so easy! Order before they're sold out! http://t.co/7IB8safJ",
+            "lat": null,
+            "long": null
+        }, {
+            "user_id": "352158211",
+            "created_at": "Fri Dec 09 12:02:44 +0000 2011",
+            "text": "I just ousted @izapayne as the mayor of KFC on @foursquare! http://t.co/NstO2cNn",
+            "lat": -37.95803818,
+            "long": 145.05326271
+        }, {
+            "user_id": "352158211",
+            "created_at": "Fri Dec 09 06:03:08 +0000 2011",
+            "text": "Iz gonna rain. \\ o / http://t.co/EfhALPh3",
+            "lat": -37.969207,
+            "long": 145.086404
+        }, {
+            "user_id": "352158211",
+            "created_at": "Fri Dec 09 02:32:23 +0000 2011",
+            "text": "@_McBlink_ I'll be here maybe till next December, maybe till 2013. ;) \n\nMy room can la , haha.",
+            "lat": -37.97514462,
+            "long": 145.09206037
+        }, {
+            "user_id": "352158211",
+            "created_at": "Fri Dec 09 02:29:11 +0000 2011",
+            "text": "@goucelia I only get three weeks starting next Thursday, Haih.",
+            "lat": -37.97572267,
+            "long": 145.09252834
+        }, {
+            "user_id": "352158211",
+            "created_at": "Fri Dec 09 02:24:41 +0000 2011",
+            "text": "@_McBlink_ bila turun Melbourne ?",
+            "lat": -37.97550389,
+            "long": 145.09222685
+        }, {
+            "user_id": "352158211",
+            "created_at": "Fri Dec 09 02:21:41 +0000 2011",
+            "text": "@_McBlink_ 'one day' not for one day! \n\nAisehhhh, hahahaha. What time your place?",
+            "lat": -37.97597721,
+            "long": 145.09249554
+        }, {
+            "user_id": "352158211",
+            "created_at": "Fri Dec 09 02:20:16 +0000 2011",
+            "text": "my friends thinks i like dubstep because everyone else does. no i've liked dubstep way before this stupid skrillex crap was around so stfu.",
+            "lat": -37.97556084,
+            "long": 145.09234898
+        }, {
+            "user_id": "352158211",
+            "created_at": "Fri Dec 09 02:16:54 +0000 2011",
+            "text": "Avoid stressful people, they channel their stress energy to you therefore it creates a domino effect. \n\nThe world needs more smiles ;)",
+            "lat": -37.97586559,
+            "long": 145.09231423
+        }, {
+            "user_id": "352158211",
+            "created_at": "Fri Dec 09 02:15:37 +0000 2011",
+            "text": "@goucelia how long?",
+            "lat": -37.97591594,
+            "long": 145.09239511
+        }, {
+            "user_id": "352158211",
+            "created_at": "Fri Dec 09 02:13:20 +0000 2011",
+            "text": "@Rooban88 why forbidden lol http://t.co/mQcjU87H",
+            "lat": -37.97583583,
+            "long": 145.09241519
+        }, {
+            "user_id": "352158211",
+            "created_at": "Fri Dec 09 02:11:43 +0000 2011",
+            "text": "@_McBlink_ I mean not 1 day, it's like someday. You know, haha. Like i wanna drive a Lamborghini one day.",
+            "lat": -37.97597624,
+            "long": 145.0923164
+        }, {
+            "user_id": "352158211",
+            "created_at": "Fri Dec 09 02:02:47 +0000 2011",
+            "text": "♫ soundtracking \"Hit the Ground Running (Original Club Mix)\" by Passenger 10 http://t.co/YAT7QdYY",
+            "lat": null,
+            "long": null
+        }, {
+            "user_id": "352158211",
+            "created_at": "Fri Dec 09 01:58:01 +0000 2011",
+            "text": "“@tiesto: I am performing in Malaysia this Saturday!! Rumors of me canceling the show are NOT true!! #fb”",
+            "lat": -37.97553936,
+            "long": 145.09222345
+        }, {
+            "user_id": "352158211",
+            "created_at": "Fri Dec 09 01:57:43 +0000 2011",
+            "text": "I wanna visit #india one day.",
+            "lat": -37.97599207,
+            "long": 145.09250514
+        }]
+    }
+}
