@@ -28,6 +28,20 @@ The keys for accessing Twitter API can be obtained from
 var twitter = require('twittery');
 ```
 
+Debugging
+---------
+
+  mocha --debug-brk test/test.js
+
+And then run node-inspector in a second shell:
+
+  node-inspector --web-port=9999 &
+
+Bringing up the URL that node-inspector spits out in a browser allows me to debug with the web inspector.
+
+  http://127.0.0.1:9999/debug?port=5858
+
+
 Dependencies
 ------------
 

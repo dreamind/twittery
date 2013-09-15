@@ -16,7 +16,8 @@
   "dependencies": {
     "undertow": "0.0.3",
     "sprintf": "0.1.1",
-    "jsonfile": "1.0.1"
+    "jsonfile": "1.0.1",
+    "request": "2.27.0"
   },
   "noAnalyze": true,
   "devDependencies": {
