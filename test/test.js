@@ -2,7 +2,7 @@ var Twittery = require('../lib/twittery');
 var assert = require('chai').assert;
 var _ = require('undertow');
 
-describe('twittery', function(){
+describe('twittery', function (){
   var delay = 10000, pageNum = 2;
 
   var translators = [
@@ -25,13 +25,35 @@ describe('twittery', function(){
       var config = {
         userId: '352158211',
         delay: delay,
-        // userId: '6253282', // twitterapi
         pageNum: pageNum,
         //fields: fields
         translators: translators
 
       };
       twittery.userTimeline(config, function(response) {
+        if (response.status == 'error') {
+          throw response.error;
+        } else if (response.results.length === 0) {
+            throw new Error("Tweet number less than expected. Expected 200, but receiving "+response.results.length)
+        } else {
+          console.log(response.results);
+        }
+        done();
+      });
+    })
+  });
+
+  describe('#multiUserTimeline()', function(){
+    it('should work for usertimeline', function(done) {
+
+      var twittery = new Twittery();
+      var config = {
+        userId: ['352158211', '6253282'],
+        delay: delay,
+        pageNum: pageNum,
+        translators: translators
+      };
+      twittery.multiUserTimeline(config, function(response) {
         if (response.status == 'error') {
           throw response.error;
         } else if (response.results.length === 0) {
